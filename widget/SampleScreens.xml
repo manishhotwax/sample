@@ -29,6 +29,7 @@ under the License.
             <widgets>
                 <decorator-screen name="SampleCommonDecorator" location="${parameters.mainDecoratorLocation}">
                     <decorator-section name="body">
+                        <label style="h2" text="hello world" />
                     </decorator-section>
                 </decorator-screen>
             </widgets>
